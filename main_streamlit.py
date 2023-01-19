@@ -9,6 +9,7 @@ from ast import literal_eval
 import plotly.express as px
 from math import floor
 ## hola
+# hola x2
 #imagenes
 image = Image.open('desarrollo2.png')
 imag1 = Image.open('Escudo_de_Medellin.png')
